@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = {
-    key: '2499b6f872b42f500d228caee6bf0727',
+    key: 'YOUR_KEY',
 }
 
 export const getMovies = async (query, page) => {
